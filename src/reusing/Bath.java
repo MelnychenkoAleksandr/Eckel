@@ -35,6 +35,7 @@ public class Bath {
                 "s3 = " + s3 + "\n" +
                 "s4 = " + s4 + "\n" +
                 "i = " + i + "\n" +
+                "toy = " + toy + "\n" +
                 "castille = " + castille;
     }
 
